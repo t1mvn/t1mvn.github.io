@@ -2,5 +2,9 @@
 
 button {
 background-color:  white;
+text-decoration: wavy;
+}
 
+body {
+    background-color: white;
 }
