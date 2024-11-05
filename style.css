@@ -3,7 +3,7 @@
 button {
 background-color:  white;
 text-decoration: wavy;
-border-radius: 3px;
+border-radius: 10px;
 border: solid 2px white;
 transition: all 0.3s ease-in-out;
 }
@@ -13,5 +13,5 @@ button:hover {
 }
 
 body {
-    background-color: white;
+    background-color: black;
 }
